@@ -38,5 +38,5 @@ Nodejs 페이스북 SSO 로그인 인증 구현
     - parameter : req.headers['x-access-token']   
 
 
-* POSTMAN share api url
+* POSTMAN import url
 https://www.getpostman.com/collections/75c077cf73d0b017136f
