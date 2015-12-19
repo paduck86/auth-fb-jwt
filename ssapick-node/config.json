@@ -1,0 +1,15 @@
+{
+  "mongoUrl": "mongodb://localhost:27017/ssapick",
+  "http" : {
+    "port": 3000
+  },
+  "view" : {
+    "engine": "hbs"
+  },
+  "facebook" : {
+    "clientID": "955633011151681",
+    "clientSecret": "195bbd893f60372107e89df83503bea3",
+    "callbackURL": "http://52.33.192.177:3000/auth/facebook/callback"
+  },
+  "jwtSecret" : "super.super.secret"
+}
