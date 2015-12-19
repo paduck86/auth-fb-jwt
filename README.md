@@ -10,6 +10,7 @@ Nodejs 페이스북 SSO 로그인 인증 구현
  1) 클라이언트에서 페이스북 access-token 을 받는다.
 
  2) 서버로 로그인한다.
+ 
     <선택1> 
     - 내용 : 서버로 email 을 넘겨주면, passport-custom 으로 인증. (email 을 사용자의 키값으로 함.)
     - method : POST
