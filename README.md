@@ -1,7 +1,7 @@
 # auth-fb-jwt
 authenticate facebook access-token and exchange for jwt token.
 
-
+-----------------------------------------------------------------------------------------------------
 
 [2015.12.20]
 Nodejs 페이스북 SSO 로그인 인증 구현
